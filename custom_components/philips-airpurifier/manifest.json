@@ -4,5 +4,6 @@
   "documentation": "https://github.com/shexbeer/philips-airpurifier",
   "dependencies": [],
   "codeowners": ["@shexbeer"],
-  "requirements": ["pycryptodome", "coapthon3"]
+  "requirements": ["pycryptodome", "coapthon3"],
+  "version": "0.1.0"
 }
